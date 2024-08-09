@@ -1,3 +1,3 @@
 # Python for Blue Team
 
-![image](https://github.com/user-attachments/assets/e24aded0-668f-4ced-9362-c339444efea3)
+![image](https://github.com/user-attachments/assets/f8a3cc89-72a7-4b1d-8fa5-4f3c34be21e2)
